@@ -1,0 +1,24 @@
+site_name: Tundra Tracker User Manual
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.indexes
+  logo: assets/logo.svg
+  palette:
+    primary: teal
+nav:
+  - 'index.md'
+  - Tracker:
+    - Driver Installation: 'driver_installation.md'
+    - Wireless Pairing: 'wireless_pairing.md'
+    - Connecting with USB: 'connecting_by_usb.md'
+    - Hardware Specifications: 'tracker_hardware.md'
+    - Frequently Asked Questions: 'tracker_faq.md'
+    - Complaince Information: 'tracker_compliance.md'
+  - Dongle:
+    - Quick Start: 'dongle_quickstart.md'
+    - Hardware Specificaitons: 'dongle_hardware.md'
+    - Frequently Asked Questions: 'dongle_faq.md'
+    - Complaince Information: 'dongle_compliance.md'
