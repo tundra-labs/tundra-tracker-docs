@@ -8,7 +8,7 @@ The latest firmware will be distributed via SteamVR.
 
 #### How many Tundra Trackers can be used at the same time?
 
-Depends on how many other SteamVR devices you use and the network environment. You will find some useful tips here: https://forum.vive.com/topic/7613-maximum-number-of-vive-trackers-2019-with-a-single-pc/
+Depends on how many other SteamVR devices you use and the network environment. You will find some useful tips here: [https://forum.vive.com/topic/7613-maximum-number-of-vive-trackers-2019-with-a-single-pc/](https://forum.vive.com/topic/7613-maximum-number-of-vive-trackers-2019-with-a-single-pc/)
 
 
 
@@ -20,7 +20,7 @@ As Tundra Trackers are SteamVR devices, you can use mixed trackers.
 
 #### How long does it take to charge Tundra Tracker?
 
-To be updated
+TBD
 
 
 
@@ -38,7 +38,7 @@ No, we don’t see any temperature increase on the surface of its base plate. Pl
 
 #### Where can I download the 3D model of Tundra Tracker?
 
-To be updated
+TBD
 
 
 
@@ -56,7 +56,7 @@ No, we do not recommend using a silicon skin as it will cover chips for tracking
 
 #### Where shall I contact if my tracker is dead or broken?
 
-To be updated
+TBD
 
 
 
