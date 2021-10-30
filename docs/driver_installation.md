@@ -19,3 +19,4 @@ You can find and install SteamVR here: https://store.steampowered.com/app/250820
 
 After pairing your Tundra Tracker with SteamVR, "i" mark will be shown on the icon of Tundra Tracker if a new firmware is available. Please choose "Update device" on SteamVR and follow the instructions.
 
+<img src="C:\Users\oniyu\Downloads\Firmware Update.png" style="zoom:50%;" />
