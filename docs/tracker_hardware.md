@@ -45,7 +45,7 @@ Please connect a USB-C cable to a tracker, and the other side to your PC or USB 
 
 #### Battery Life
 
-Tundra Tracker’s battery will last for 10 hours on average.
+Tundra Tracker’s battery will last for 9 hours on average.
 
 
 
