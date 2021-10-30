@@ -22,7 +22,11 @@ Press the power button on top of the tracker until its LED turns blue.
 #### Step 4. Set SteamVR into pairing mode
 
 On your PC, start SteamVR and select “Devices" -> “Pair Controller" -> “HTC VIVE Tracker” on its menu.
-<img src="images/wireless_pairing.assets/WC54c67PLdD6preI9VK-rL_RY6hcaoNHsWEPe9dUqXPZDjjtQ5rFiV5F0lHB2uyk0k75457qBfLuhOzwtymg2m5PPtp43KmBIrCavrdu4Q4ZlCm_ADMPP4rms2Hyyf9K6wbAE9aP=s0.png" alt="img" style="zoom: 25%;" /><img src="images/wireless_pairing.assets/GRrj6BLVQakIDssPzGF0K95SIXgZ-A9TY2xAK6Vqc1vwPTnSrB21YXYscMLwAzfhVxQsxs-T-vg2jVZww_ofm33b24at7HPafoRsnfI0eD_ShJvyZrzxeK_jdLUiw1hz5gNqBDYA=s0.png" alt="img" style="zoom: 25%;" /><img src="images/wireless_pairing.assets/MdOf1U_R_wbiRCFVfiRxRQqlji8IB9uudwVX0yTcNEfGNDDMRYeiCb8NepPaDdD5MT4Sn_P2Oi8nt793eVl_BimDApKhpwGTv8JWqOXmKphGJoRvlEQUrs76yLvQ-LQI0a3So5FX=s0.png" alt="img" style="zoom: 25%;" />
+<img src="images/wireless_pairing.assets/WC54c67PLdD6preI9VK-rL_RY6hcaoNHsWEPe9dUqXPZDjjtQ5rFiV5F0lHB2uyk0k75457qBfLuhOzwtymg2m5PPtp43KmBIrCavrdu4Q4ZlCm_ADMPP4rms2Hyyf9K6wbAE9aP=s0.png" alt="img"/>
+
+<img src="images/wireless_pairing.assets/GRrj6BLVQakIDssPzGF0K95SIXgZ-A9TY2xAK6Vqc1vwPTnSrB21YXYscMLwAzfhVxQsxs-T-vg2jVZww_ofm33b24at7HPafoRsnfI0eD_ShJvyZrzxeK_jdLUiw1hz5gNqBDYA=s0.png" alt="img" style="zoom: 25%;" /><img src="images/wireless_pairing.assets/MdOf1U_R_wbiRCFVfiRxRQqlji8IB9uudwVX0yTcNEfGNDDMRYeiCb8NepPaDdD5MT4Sn_P2Oi8nt793eVl_BimDApKhpwGTv8JWqOXmKphGJoRvlEQUrs76yLvQ-LQI0a3So5FX=s0.png" alt="img" style="zoom: 25%;" />
+
+
 
 
 
