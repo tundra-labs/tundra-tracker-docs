@@ -6,7 +6,7 @@ Charge your Tundra Tracker until its LED color gets green.
 
 
 
-#### Step 2: Connect a dongle to your PC
+#### Step 2. Connect a dongle to your PC
 
 A Tundra Tracker can be paired with one dongle connected to your PC.
 
