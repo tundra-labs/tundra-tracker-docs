@@ -1,5 +1,5 @@
 # Dongle Quickstart
 
-#### Step 1: Connect a dongle to your PC.
+## Step 1: Connect a dongle to your PC.
 
-TBD
+Plug in your dongle to the USB port of your Windwos PC.
