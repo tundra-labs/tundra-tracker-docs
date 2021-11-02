@@ -1,13 +1,14 @@
 # Super Wireless Dongle Complaince Information
 
+![](images/others/Dongle Certification.png)
 
-| **Country / Region**                                 | **Model: Tundra Tracker**                                    |
-| ---------------------------------------------------- | ------------------------------------------------------------ |
-| Australia                                            | TBD                                                          |
-| Canada                                               | IC: XXXXXX-YYYYYYYYYYY<br/>(Company Number + Unique Product Number)<br/>CAN ICES-3(*)/NMB-3(*) |
-| Japan                                                | TBD                                                          |
-| South Korea                                          | TBD                                                          |
-| New Zealand                                          | TBD                                                          |
-| United Kingdom of Great Britain and Northern Ireland | TBD                                                          |
-| United States of America                             | FCC ID: XXXXXXXXX                                            |
+
+| **Country / Region**     | **Model: Tundra Tracker** |
+| ------------------------ | ------------------------- |
+| Australia                | TBD                       |
+| Canada                   | IC: 8017A-MDBT50Q         |
+| Japan                    | R 018-180280              |
+| Taiwan                   | NCC CCAM18LP0820T7        |
+| South Korea              | R-C-ryt<br />MDBT50Q      |
+| United States of America | FCC ID: SH6-MDBT50Q       |
 
