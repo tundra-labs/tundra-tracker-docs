@@ -1,7 +1,5 @@
 # Super Wireless Dongle Complaince Information
 
-![](images/others/Dongle Certification.png)
-
 
 | **Country / Region**     | **Model: Tundra Tracker** |
 | ------------------------ | ------------------------- |
@@ -12,3 +10,4 @@
 | South Korea              | R-C-ryt<br />MDBT50Q      |
 | United States of America | FCC ID: SH6-MDBT50Q       |
 
+<img src="https://docs.tundra-labs.com/images/others/Dongle Certification.png" style="zoom:33%;" />
