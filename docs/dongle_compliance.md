@@ -3,7 +3,6 @@
 
 | **Country / Region**     | **Model: Tundra Tracker** |
 | ------------------------ | ------------------------- |
-| Australia                | TBD                       |
 | Canada                   | IC: 8017A-MDBT50Q         |
 | Japan                    | R 018-180280              |
 | Taiwan                   | NCC CCAM18LP0820T7        |
