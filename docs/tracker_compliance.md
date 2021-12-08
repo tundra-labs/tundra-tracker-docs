@@ -11,7 +11,11 @@ Tundra Tracker has compliance certification for the following regions: Australia
 
 ![](images/others/TrackerCertification20211021.png)
 
-
+| Description                                                  | Value             |
+| ------------------------------------------------------------ | ----------------- |
+| Operating  frequency range of the antenna:                   | 2400MHz-2500MHz   |
+| Operating  frequency band (according to the standard):       | 2400MHz-2483.5MHz |
+| Operating  frequency range of your product (according to the test results): | 2402MHz-2480MHz   |
 
 ## **FCC - Regulatory Notices**
 
