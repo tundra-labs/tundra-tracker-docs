@@ -4,18 +4,18 @@ Tundra Tracker has compliance certification for the following regions: Australia
 
 | Country / Region         | Model: Tundra Tracker |
 | ------------------------ | --------------------- |
-| Canada                   | IC: 27520-TT1         |
+| Canada                   | IC: 27820-TT1         |
 | Japan                    | TBD                   |
 | South Korea              | TBD                   |
-| United States of America | FCC ID: 2ASXT         |
+| United States of America | FCC ID: 2ASXT-TT1     |
 
-![](images/others/TrackerCertification20211021.png)
+![image-20211215143456886](images/tracker_compliance.assets/image-20211215143456886.png)
 
-| Description                                                  | Value             |
-| ------------------------------------------------------------ | ----------------- |
-| Operating  frequency range of the antenna:                   | 2400MHz-2500MHz   |
-| Operating  frequency band (according to the standard):       | 2400MHz-2483.5MHz |
-| Operating  frequency range of your product (according to the test results): | 2402MHz-2480MHz   |
+| Description                                 | Value             |
+| ------------------------------------------- | ----------------- |
+| Operating  frequency range of the antenna:  | 2400MHz-2500MHz   |
+| Operating  frequency band:                  | 2400MHz-2483.5MHz |
+| Operating  frequency range of your product: | 2402MHz-2480MHz   |
 
 ## **FCC - Regulatory Notices**
 
