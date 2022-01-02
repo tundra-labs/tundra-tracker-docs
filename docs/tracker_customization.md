@@ -4,6 +4,6 @@ In order to fully leverage the expandability of Tundra Tracker, an accurate 3D m
 
 For electircal button input and haptic output expansion, the breakout board in the 3D model can be purchased <a href="https://tundra-labs.com/products/tundra-tracker-io-expansion-board" target="_blank">here</a>.
 
-We encourage customers to develop and share new and novel baseplate designs and other accessories.  Please do share your work and customizations on the [Tundra Labs Forum]( forum.tundra-labs.com).  Happy Hacking!
+We encourage customers to develop and share new and novel baseplate designs and other accessories.  Please do share your work and customizations on the [Tundra Labs Forum]( https://forum.tundra-labs.com/t/3d-printing-and-custom-baseplates/162).  Happy Hacking!
 
 ![image-20211231102128434](images/tracker_customization.assets/image-20211231102128434.png)
