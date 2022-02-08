@@ -15,7 +15,7 @@
 
 
 
-## Supported BaseStation
+## Supported Base Stations
 
-- BaseStaion1.0 by HTC
-- BaseStaion2.0 by Valve
+- BaseStation 1.0 by HTC
+- BaseStation 2.0 by Valve
