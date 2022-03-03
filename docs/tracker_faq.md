@@ -20,7 +20,7 @@ As Tundra Trackers are SteamVR devices, you can use mixed trackers.
 
 ## How long does it take to charge Tundra Tracker?
 
-TBD
+[insert chart/figures]
 
 
 
@@ -38,13 +38,13 @@ No, we don’t see any temperature increase on the surface of its base plate. Pl
 
 ## Where can I download the 3D model of Tundra Tracker?
 
-TBD
+[Here](https://docs.tundra-labs.com/tracker_customization/)
 
 
 
 ## Can I use a magnetic charging cable for Tundra Tracker?
 
-Yes. Please use a USB Type C connector. 
+Yes. Make sure to use a USB type C connector.
 
 
 
@@ -56,24 +56,30 @@ No, we do not recommend using a silicon skin as it will cover chips for tracking
 
 ## Where shall I contact if my tracker is dead or broken?
 
-TBD
+First we recommend checking out the forum and going through our "troubleshooting guide". If you still need support after, you can reach out to us [here](https://tundra-labs.com/pages/contact-usc).
+Please send only one email per support request to limit the number of tickets and to help us get through them faster. Thank you!
 
 
 
 ## List of software supporting Tundra Tracker
 
-- VRChat (3 trackers supported as of September 2021)
-
-- NeosVR (up to 11 tracking points)
-
+- Beat Saber's custom avatar mod
+- Blade & Sorcery (3 trackers supported)
+- Climbey (2 trackers supported, for feet)
+- Eleven Table Tennis (for use as a paddle)
+- LIV mixed reality capture
+- NeosVR (up to 11 tracking points, including HMD and controllers)
 - Virtual Motion Capture
+- Virual Cast
+- VRChat (10 tracking point beta live now)
 
-- Virtual Cast
-
-   … and more!
+...and more!
   
   
 
-## Can tundra Tracker be used with Oculus Quest or Oculus Quest 2?
+## Can tundra Tracker be used with headsets other than the Valve Index, Vive, etc?
+Yes, the Tundra Tracker can be used together with a range of non-SteamVR devices, like WMR, Oculus Quest and more.
 
-TBD
+There are guides online on how to “combine playspaces”. You’ll need the Tundra Trackers, (a) dongle(s), but also 2 SteamVR Base Stations to track them.
+
+[Add some links to guides/resources]
