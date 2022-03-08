@@ -5,8 +5,8 @@ Tundra Tracker has compliance certification for the following regions: Australia
 | Country / Region         | Model: Tundra Tracker |
 | ------------------------ | --------------------- |
 | Canada                   | IC: 27820-TT1         |
-| Japan                    | TBD                   |
-| South Korea              | TBD                   |
+| Japan                    | R 020-210227          |
+| South Korea              | R-R-TuA-TundraTracker |
 | United States of America | FCC ID: 2ASXT-TT1     |
 
 ![image-20211215143456886](images/tracker_compliance.assets/image-20211215143456886.png)
