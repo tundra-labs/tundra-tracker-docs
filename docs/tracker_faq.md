@@ -20,7 +20,7 @@ As Tundra Trackers are SteamVR devices, you can use mixed trackers.
 
 ## How long does it take to charge Tundra Tracker?
 
-[insert chart/figures]
+Chart/figures to be added.
 
 
 
@@ -54,9 +54,9 @@ No, we do not recommend using a silicon skin as it will cover chips for tracking
 
 
 
-## Where shall I contact if my tracker is dead or broken?
+## Where should I get in touch if my tracker is dead or broken?
 
-First we recommend checking out the forum and going through our "troubleshooting guide". If you still need support after, you can reach out to us [here](https://tundra-labs.com/pages/contact-usc).
+First we recommend checking out the forum and going through our "troubleshooting guide" (to be added). If you still need support after, you can reach out to us [here](https://tundra-labs.com/pages/contact-usc).
 Please send only one email per support request to limit the number of tickets and to help us get through them faster. Thank you!
 
 
