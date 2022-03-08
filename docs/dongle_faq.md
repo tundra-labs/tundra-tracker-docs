@@ -19,6 +19,6 @@ The dongle is sensitive to interference, so ideally place it “in view” of yo
 The SW3 yes, but we recommend against placing the SW5 and SW7 inside the frunk as that may cause overheating.
 
 ## Where shall I contact if my Dongle is dead or broken?
-First we recommend checking out the forum and going through our "troubleshooting guide". If you still need support after, you can reach out to us [here](https://tundra-labs.com/pages/contact-us)
+First we recommend checking out the forum and going through our "troubleshooting guide" (to be added). If you still need support after, you can reach out to us [here](https://tundra-labs.com/pages/contact-us)
 
 Please send only one email per support request to limit the number of tickets and to help us get through them faster. Thank you!
