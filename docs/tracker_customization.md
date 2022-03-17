@@ -1,6 +1,6 @@
 # Tundra Tracker 3D Model
 
-In order to fully leverage the expandability of Tundra Tracker, an accurate 3D model can be [downloaded here]( https://github.com/tundra-labs/tundra-tracker-docs/raw/master/docs/files/TundraTracker_DeveloperModel%20v17.zip ).
+In order to fully leverage the expandability of Tundra Tracker, an accurate 3D model can be [downloaded here]( https://github.com/tundra-labs/tundra-tracker-docs/raw/master/docs/files/TundraTracker_DeveloperModel%20v20.zip ).
 
 For electircal button input and haptic output expansion, the breakout board in the 3D model can be purchased <a href="https://tundra-labs.com/products/tundra-tracker-io-expansion-board" target="_blank">here</a>.
 
